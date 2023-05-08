@@ -1,0 +1,2 @@
+# SiteCoreProjectsExercise
+Exercise with SiteCore
